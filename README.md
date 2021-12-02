@@ -9,71 +9,71 @@
 
 </td><td>
 
-## Shout out - Translators Needed!
+## Alerta! - Precisamos de tradutores!
 
-Recently we revisited the settings dialog to improve the feeling and usability.
-While doing that we also added better descriptions, for which we require
-new translations.
+Recentemente, revisitamos a caixa de diálogo de configurações para melhorar a sensação e a usabilidade.
+Ao fazer isso, também adicionamos descrições melhores, para as quais exigimos
+novas traduções.
 
-Partial translations, which need to be updated:
+Traduções parciais, que precisam ser atualizadas:
 
-- Czech
-- Polish
-- Chinese
+- Tcheca
+- Polonês
+- Chinês
 
-Full translations for all languages not mentioned previously **except**:
+Traduções completas para todos os idiomas não mencionados anteriormente **exceto**:
 
-- English
-- German
-- Italian
+- Inglês
+- Alemâo
+- Italiano
 
-If you would like to help us improve the localization of Xournal++, take a look at [our Crowdin project](https://crowdin.com/project/xournalpp). If you are interested in translating a new language, contact us on [Gitter](https://gitter.im/xournalpp/xournalpp) or create a new issue and we will unlock the language on Crowdin.
+Se você quiser nos ajudar a melhorar a localização do Xournal ++, dê uma olhada em [nosso projeto Crowdin](https://crowdin.com/project/xournalpp). Se você estiver interessado em traduzir um novo idioma, entre em contato conosco no [Gitter](https://gitter.im/xournalpp/xournalpp) ou crie um novo fascículo e nós desbloquearemos o idioma no Crowdin.
 
-**Thanks in advance!**
+**Obrigado desde já!**
 
 </td></tr></table>
 
-## Features
+## Recursos
 
-Xournal++ (/ˌzɚnl̟ˌplʌsˈplʌs/) is a hand note taking software written in C++ with the target of flexibility, functionality and speed.
-Stroke recognizer and other parts are based on Xournal Code, which you can find at [sourceforge](http://sourceforge.net/projects/xournal/)
+Xournal++ é um software para tomar notas escrito em C ++ com o objetivo de flexibilidade, funcionalidade e velocidade.
+O reconhecedor de traços e outras partes são baseados no código Xournal, que você pode encontrar em [sourceforge](http://sourceforge.net/projects/xournal/)
 
-Xournal++ features:
+Recursos do Xournal++:
 
-- Supports pressure senstive styluses and digital pen tables (e.g. Wacom, Huion, XP Pen, etc. tablets)
-- Paper backgrounds for notetaking, scratch paper, or whiteboarding
-- Annotate on top of PDFs
-- Export to a variety of formats including SVG, PNG and PDF, both from the GUI and command line
-- Different drawing tools (e.g.pen, highlighter) and stroke styles (e.g. solid, dotted)
-- Shape drawing (line, arrow, circle, rectangle, spline)
-- Fill shape functionality
-- Shape resizing and rotation
-- Rotation and grid snapping for precise alignment of objects
-- Input stabilization for smoother writing/drawing
-- Text tool for adding text in different fonts, colors and sizes
-- Enhanced support for image insertion
-- Eraser with multiple configurations
-- LaTeX support (requires a working LaTeX installation) with customizeable template
-- Sidebar with Page Previews with advanced page sorting, PDF Bookmarks and Layers (can be individually hidden/edited)
-- Allows mapping different tools/colors etc. to stylus/mouse buttons
-- Customizeable toolbar with multiple configurations, e.g. to optimize toolbar for portrait/landscape
-- Page Template definitions
-- Bug reporting, auto-save, and auto backup tools
-- Audio recording and playback alongside with handwritten notes
-- Multi language support (over 20 languages supported)
-- Plugins using Lua scripting
+- Suporta estiletes sensíveis à pressão e mesas de caneta digital (por exemplo, tablets Wacom, Huion, XP Pen, etc.)
+- Planos de fundo de papel para anotações, rascunho ou quadro branco
+- Faça anotações sobre PDFs
+- Exporte para uma variedade de formatos, incluindo SVG, PNG e PDF, tanto da GUI quanto da linha de comando
+- Diferentes ferramentas de desenho (por exemplo, caneta, marca-texto) e estilos de traçado (por exemplo, sólido, pontilhado)
+- Desenho de forma (linha, seta, círculo, retângulo, spline)
+- Funcionalidade de forma de preenchimento
+- redimensionamento e rotação da forma
+- Rotação e ajuste de grade para alinhamento preciso de objetos
+- Estabilização de entrada para escrita / desenho mais suave
+- Ferramenta de texto para adicionar texto em diferentes fontes, cores e tamanhos
+- Suporte aprimorado para inserção de imagem
+- Borracha com múltiplas configurações
+- Suporte a LaTeX (requer uma instalação LaTeX funcional) com modelo personalizável
+- Barra lateral com visualizações de página com classificação de página avançada, marcadores e camadas de PDF (podem ser ocultados / editados individualmente)
+- Permite mapear diferentes ferramentas / cores, etc. para botões da caneta / mouse
+- Barra de ferramentas personalizável com várias configurações, por exemplo para otimizar a barra de ferramentas para retrato / paisagem
+- Definições de modelo de página
+- Relatórios de bugs, salvamento automático e ferramentas de backup automático
+- Gravação e reprodução de áudio junto com notas manuscritas
+- Suporte multilíngue (mais de 20 idiomas suportados)
+- Plugins usando script Lua
 
-## Mobile & web app
+## Aplicativo mobile & web
 
-Since mid 2020, there is a Flutter-written mobile app for **Android**, **Chrome OS** and **iOS** (coming soon) as well as a **web app** available. Even though it is not perfectly stable nor are all of Xournal++'s features fully supported yet, you may check it out and open your Xournal++ notebooks on your mobile devices. You can get in touch in it's [separate repository on GitLab](https://gitlab.com/TheOneWithTheBraid/xournalpp_mobile).
+Desde meados de 2020, existe um aplicativo móvel escrito pelo Flutter para ** Android **, ** Chrome OS ** e ** iOS ** (em breve), bem como um ** aplicativo web ** disponível. Mesmo que não seja perfeitamente estável e nem todos os recursos do Xournal ++ sejam totalmente suportados, você pode verificar e abrir seus notebooks Xournal ++ em seus dispositivos móveis. Você pode entrar em contato em seu [repositório no GitLab](https://gitlab.com/TheOneWithTheBraid/xournalpp_mobile).
 
-[Get it on Google Play](https://play.google.com/store/apps/details?id=online.xournal.mobile)
+[Baixe no Google Play](https://play.google.com/store/apps/details?id=online.xournal.mobile)
 
-The web app is available at [xournal.online](https://xournal.online).
+A versão web é disponibilizada em [xournal.online](https://xournal.online).
 
-_Why is the iOS app not published yet?_
+_Por que o aplicativo iOS ainda não foi publicado?_
 
-According to the Apple App Store guidelines, it is prohibited to publish unstable or beta apps. Hence we wait until Xournal++ Mobile works more stable and offers more complete feature compatibility to Xournal++.
+De acordo com as diretrizes da Apple App Store, é proibido publicar aplicativos instáveis ou beta. Portanto, esperamos até que o Xournal ++ Mobile funcione de maneira mais estável e ofereça compatibilidade de recursos mais completa com o Xournal ++.
 
 <table>
 <tr>
@@ -103,87 +103,86 @@ According to the Apple App Store guidelines, it is prohibited to publish unstabl
 
 </td></tr><tr><td>
 
-## Toolbar / Page Background / Layer
+## Barra de Ferramentas / Fundo da Página / Camada
 
-Multiple page background, easy selectable on the toolbar
+Plano de fundo de várias páginas, facilmente selecionável na barra de ferramentas
 <img src="readme/background.png" width=100% title="Xournal++ Screenshot"/>
 
 </td><td>
 
-## Layer sidebar and advance Layer selection.
+## Barra lateral da camada e seleção de camada avançada.
 
 <img src="readme/layer.png" width=100% title="Xournal++ Screenshot"/>
 
 </td></tr><tr><td>
 
-## Multiple predefined and fully customizable Toolbar.
+## Barra de ferramentas predefinida e totalmente personalizável.
 
 <img src="readme/toolbar.png" width=100% title="Xournal++ Screenshot"/>
 
 </td></tr></table>
 
-## User Manual and FAQ
+## Manual do usuário e FAQ
 
-For general usage, consult the [User
-Manual](https://github.com/xournalpp/xournalpp/wiki/User-Manual). Answers to
-some common questions can be found in the
+Para uso geral, consulte o [Manual de Usuário](https://github.com/xournalpp/xournalpp/wiki/User-Manual). Respostas para
+algumas perguntas comuns podem ser encontradas no
 [FAQ](https://github.com/xournalpp/xournalpp/wiki/Frequently-Asked-Questions-&-Problem-Solving).
 
-## Experimental Features:
+## Recursos experimentais:
 
-Sometimes a feature is added that might not be rock solid, or the developers aren't sure it is useful.
-Try these out and give us some feedback.
+Às vezes, é adicionado um recurso que pode não ser sólido como uma rocha ou os desenvolvedores não têm certeza se é útil.
+Experimente e dê-nos algum feedback.
 
-Here are a few under development that you can play with now.
+Aqui estão alguns em desenvolvimento com os quais você pode jogar agora.
 
-- <img src="readme/floatingtoolboxmbmenu.png"  title="Xournal++ Screenshot"/> Assign a mouse button or stylus button to bring up a toolbox of toolbars right under the cursor. You can also modify what is in the toolbox through the usual View->Toolbars->Customize although **it won't appear unless you've assigned a button in preferences: mouse or stylus** ( or selected a toolbar configuration that uses it).
+- <img src="readme/floatingtoolboxmbmenu.png"  title="Xournal++ Screenshot"/> Atribua um botão do mouse ou botão da caneta para abrir uma caixa de ferramentas de barras de ferramentas logo abaixo do cursor. Você também pode modificar o que está na caixa de ferramentas através do usual Exibir-> Barras de Ferramentas-> Personalizar, embora **não apareça a menos que você tenha atribuído um botão nas preferências: mouse ou caneta** (ou selecionado uma configuração de barra de ferramentas que usa isto).
 
-  - This is an experimental feature because not everything you can put in the toolbox behaves. So be aware.
+ - Este é um recurso experimental porque nem tudo que você pode colocar na caixa de ferramentas se comporta. Portanto, esteja atento.
 
     <img src="readme/floatingtoolbox.png" width=25% />
 
-* Keep your eyes out for other experimental features in preferences as seen here:
+* Fique atento a outros recursos experimentais nas preferências, conforme visto aqui:
 
-  DrawingTools: When drawing a box, circle etc simulate ctrl or shift modifiers by the initial direction you move the mouse.
+   DrawingTools: Ao desenhar uma caixa, círculo, etc., simula os modificadores ctrl ou shift pela direção inicial em que você move o mouse.
 
-  Action on Tool Tap: Allow a brief tap on the screen to bring up the floating toolbox and/or select an object. May work with pen and highlighter only.
+   Ação no toque da ferramenta: Permitir um breve toque na tela para abrir a caixa de ferramentas flutuante e / ou selecionar um objeto. Pode funcionar apenas com caneta e marcador.
 
    <img src="readme/moreexperimentals.png" width=50% />
 
-## Installing
+## Instalação
 
-The official releases of Xournal++ can be found on the
-[Releases](https://github.com/xournalpp/xournalpp/releases) page. We provide
-binaries for Debian (Buster), Ubuntu (16.04), MacOS (10.15 and newer), and
-Windows. For other Linux distributions (or older/newer ones), we also provide an
-AppImage that is binary compatible with any distribution released around or
-after Ubuntu 16.04. For installing Xournal++ Mobile on handheld devices, please check out [Xournal++ Mobile's instructions](https://gitlab.com/TheOneWithTheBraid/xournalpp_mobile#try-it-out)
+Os lançamentos oficiais do Xournal ++ podem ser encontrados nas
+[Atualizações](https://github.com/xournalpp/xournalpp/releases). Nós provemos
+binários para Debian (Buster), Ubuntu (16.04), MacOS (10.15 e mais recente) e
+Janelas. Para outras distribuições Linux (ou mais antigas / mais recentes), também fornecemos um
+AppImage que é binário compatível com qualquer distribuição lançada em torno de ou
+após o Ubuntu 16.04. Para instalar o Xournal ++ Mobile em dispositivos portáteis, veja [Intrução para Xournal++ Mobile](https://gitlab.com/TheOneWithTheBraid/xournalpp_mobile#try-it-out)
 
-**A note for Ubuntu/Debian users**: The official binaries that we provide are
-only compatible with the _specific version of Debian or Ubuntu_ indicated by the
-file name. For example, if you are on Ubuntu 20.04, the binary whose name
-contains `Ubuntu-bionic` is _only_ compatible with Ubuntu 18.04. If your system
-is not one of the specific Debian or Ubuntu versions that are supported by the
-official binaries, we recommend you use either the PPA (Ubuntu only), the Flatpak, or the
+**Uma observação para usuários do Ubuntu / Debian**: os binários oficiais que fornecemos são
+compatível apenas com a _versão específica do Debian ou Ubuntu_ indicada pelo
+nome do arquivo. Por exemplo, se você estiver no Ubuntu 20.04, o binário cujo nome
+contém `Ubuntu-bionic` é _somente_ compatível com Ubuntu 18.04. Se o seu sistema
+não é uma das versões específicas do Debian ou Ubuntu que são suportadas pelo
+binários oficiais, recomendamos que você use o PPA (somente Ubuntu), o Flatpak ou o
 AppImage.
 
-There is also an _unstable_, [automated nightly
-release](https://github.com/xournalpp/xournalpp/releases/tag/nightly) that
-includes the very latest features and bug fixes.
+Também existe uma _unstable_, [automated nightly
+release](https://github.com/xournalpp/xournalpp/releases/tag/nightly) onde
+inclui os recursos e correções de bugs mais recentes.
 
-With the help of the community, Xournal++ is also available on official repositories
-of some popular Linux distros and platforms.
+Com a ajuda da comunidade, o Xournal ++ também está disponível nos repositórios oficiais
+de algumas distribuições e plataformas Linux populares.
 
 ### Debian
 
-There are [Stable releases](https://github.com/xournalpp/xournalpp/releases) and
+Aqui estão as [Atualizações estáveis](https://github.com/xournalpp/xournalpp/releases) e
 _unstable_ [automated nightly releases](https://github.com/xournalpp/xournalpp/releases/tag/nightly)
-for Debian.
+para Debian.
 
-### Ubuntu and derivatives
+### Ubuntu e derivados
 
 #### Stable PPA
-The latest stable version is available via the following [_unofficial_ PPA](https://github.com/xournalpp/xournalpp/issues/1013#issuecomment-692656810):
+A última versão estável está disponível através do seguinte [_unofficial_ PPA](https://github.com/xournalpp/xournalpp/issues/1013#issuecomment-692656810):
 
 ```bash
 sudo add-apt-repository ppa:apandada1/xournalpp-stable
@@ -192,7 +191,7 @@ sudo apt install xournalpp
 ```
 
 #### Unstable PPA
-An _unstable_, nightly release is available for Ubuntu-based distributions via the following PPA:
+Um lançamento noturno _unstable_ está disponível para distribuições baseadas no Ubuntu por meio do seguinte PPA:
 
 ```bash
 sudo add-apt-repository ppa:andreasbutti/xournalpp-master
@@ -200,16 +199,16 @@ sudo apt update
 sudo apt install xournalpp
 ```
 
-This PPA is provided by the Xournal++ team. While it has the latest features and
-bug fixes, it has also not been tested thoroughly and may break periodically (we
-try our best not to break things, though).
+Este PPA é fornecido pela equipe do Xournal ++. Embora tenha os recursos mais recentes e
+correções de bugs, ele também não foi testado completamente e pode falhar periodicamente (nós
+tente o nosso melhor para não quebrar as coisas).
 
 ### Fedora
 
-The [released version of
-xournalpp](https://src.fedoraproject.org/rpms/xournalpp) is available in the
+A [released version of
+xournalpp](https://src.fedoraproject.org/rpms/xournalpp) está disponível em
 [main repository](https://bodhi.fedoraproject.org/updates/?packages=xournalpp)
-via _Software_ application or the following command:
+via aplicação de software do seguinte comando:
 
 ```bash
 sudo dnf install xournalpp
@@ -221,36 +220,36 @@ or
 pkcon install xournalpp
 ```
 
-The bleeding edge packages synced to xournalpp git master on a daily basis are available from [COPR luya/xournalpp](https://copr.fedorainfracloud.org/coprs/luya/xournalpp/).
+Os pacotes de última geração sincronizados com xournalpp git master diariamente estão disponíveis em [COPR luya/xournalpp](https://copr.fedorainfracloud.org/coprs/luya/xournalpp/).
 [![Copr build status](https://copr.fedorainfracloud.org/coprs/luya/xournalpp/package/xournalpp/status_image/last_build.png)](https://copr.fedorainfracloud.org/coprs/luya/xournalpp/package/xournalpp/)
 
 ### openSUSE
 
-On openSUSE Tumbleweed, the released version of Xournal++ is available from the
-main repository:
+No openSUSE Tumbleweed, a versão lançada do Xournal ++ está disponível no
+repositório principal:
 
 ```bash
 sudo zypper in xournalpp
 ```
 
-For openSUSE Leap 15.0 and earlier, use the install link from
+Para o openSUSE Leap 15.0 e anterior, use o link de instalação de
 [X11:Utilities](https://software.opensuse.org//download.html?project=X11%3AUtilities&package=xournalpp).
 
-For all versions of openSUSE, bleeding edge packages synced to xournalpp git
-master on a weekly basis are available from
+Para todas as versões do openSUSE, pacotes de última geração sincronizados com xournalpp git
+master em uma base semanal estão disponíveis em
 [home:badshah400:Staging](https://software.opensuse.org//download.html?project=home%3Abadshah400%3AStaging&package=xournalpp).
 
 ### Arch Linux
 
-The latest stable release is available [in the [community]
+A última versão estável está disponível [in the [community]
 repository](https://www.archlinux.org/packages/community/x86_64/xournalpp/).
 
-To build the latest state of the master branch yourself, use [this AUR
+Para construir você mesmo o estado mais recente do branch master, use [this AUR
 package](https://aur.archlinux.org/packages/xournalpp-git/).
 
 ### Solus
 
-The latest stable release is available in the main repository:
+A última versão estável está disponível no repositório principal:
 
 ```bash
 sudo eopkg it xournalpp
@@ -258,65 +257,64 @@ sudo eopkg it xournalpp
 
 ### Flatpak
 
-The Xournal++ team officially supports a [FlatHub
-release](https://flathub.org/apps/details/com.github.xournalpp.xournalpp), which
-can be installed with
+A equipe do Xournal ++ suporta oficialmente uma [Versão FlatHub](https://flathub.org/apps/details/com.github.xournalpp.xournalpp), que
+pode ser instalado com
 
 ```bash
 flatpak install flathub com.github.xournalpp.xournalpp
 ```
 
-Note that for Xournal++ to work properly, you must have at least one GTK theme
-and one icon theme installed on Flatpak. To enable LaTeX support, you will also
-need to install the TeX Live extension:
+Observe que para o Xournal ++ funcionar corretamente, você deve ter pelo menos um tema GTK
+e um tema de ícone instalado no Flatpak. Para habilitar o suporte a LaTeX, você também
+precisa instalar a extensão TeX Live:
 
 ```bash
 flatpak install flathub org.freedesktop.Sdk.Extension.texlive
 ```
 
-The Flatpak manifest can be found at the [Xournal++ Flatpak packaging
-repository](https://github.com/flathub/com.github.xournalpp.xournalpp), and all
-Flatpak-related packaging issues should be reported there.
+O manifesto Flatpak pode ser encontrado no pacote [Xournal ++ Flatpak
+repositório] (https://github.com/flathub/com.github.xournalpp.xournalpp), e todos
+Problemas de empacotamento relacionados ao Flatpak devem ser relatados lá.
 
 ### Android and Chrome OS
 
-Android is supported by Xournal++ Mobile. It can be downloaded either on the [Tags page](https://gitlab.com/TheOneWithTheBraid/xournalpp_mobile/-/tags) or [from Google Play](https://play.google.com/store/apps/details?id=online.xournal.mobile).
+O Android é compatível com o Xournal ++ Mobile. Ele pode ser baixado em [Tags page](https://gitlab.com/TheOneWithTheBraid/xournalpp_mobile/-/tags) ou [from Google Play](https://play.google.com/store/apps/details?id=online.xournal.mobile).
 
 ### iOS
 
-Unfortunately, the iOS app is not published yet in the Apple App Store. See [here](#mobile--web-app) to learn, why. Anyway, in the [Building section](#building) you can learn how to build an early preview.
+Infelizmente, o aplicativo iOS ainda não foi publicado na Apple App Store. Veja [here](#mobile--web-app) para saber por quê. De qualquer forma, em [Building section](#building) você pode aprender como construir uma prévia.
 
 ### Windows
 
-Official Windows releases are provided on the [Releases
+Os lançamentos oficiais do Windows são fornecidos em [Releases
 page](https://github.com/xournalpp/xournalpp/releases).
 
-**Notes:**
+**Notas:**
 
-- Currently, only WinTab drivers are supported. This is due to a limitation with
-  the underlying library that we use, GTK.
-- There is a GTK bug that prevents stylus input from working correctly. Please start
-  Xournal++, touch with the stylus, quit Xournal++ and start again. Then stylus
-  input will be working, until you restart Windows. See
-  [#659](https://github.com/xournalpp/xournalpp/issues/659).
+- Atualmente, apenas drivers WinTab são suportados. Isso é devido a uma limitação com
+  a biblioteca subjacente que usamos, GTK.
+- Existe um bug GTK que impede que a entrada da caneta funcione corretamente. Por favor comece
+  Xournal ++, toque com a caneta, saia do Xournal ++ e comece novamente. Então caneta
+  entrada estará funcionando, até que você reinicie o Windows. Ver
+   [#659](https://github.com/xournalpp/xournalpp/issues/659).
 
 ### Mac OS X
 
-Mac OS X releases are provided on the [Releases
+As versões do Mac OS X são fornecidas em [Releases
 page](https://github.com/xournalpp/xournalpp/releases).
 
-**Notes:**
+**Notas:**
 
-- There have been compatibility problems with Mac OS X Catalina regarding both
-  file permissions and stylus support
-  ([#1772](https://github.com/xournalpp/xournalpp/issues/1772) and
-  [#1757](https://github.com/xournalpp/xournalpp/issues/1757)). Unfortunately,
-  we don't have the resources to adequately support Catalina at this time. Help
-  would be appreciated!
-- Xournal++ will be delivered with a patched GTK. Else pressure sensitivity will not work on Mac
+- Houve problemas de compatibilidade com o Mac OS X Catalina em relação a ambos
+  permissões de arquivo e suporte para stylus
+  ([#1772](https://github.com/xournalpp/xournalpp/issues/1772) e
+  [#1757](https://github.com/xournalpp/xournalpp/issues/1757)). Infelizmente,
+  não temos recursos para apoiar adequadamente Catalina neste momento. Ajuda
+  seria apreciado!
+- Xournal ++ será entregue com um GTK corrigido. Caso contrário, a sensibilidade à pressão não funcionará no Mac
   [#569](https://github.com/xournalpp/xournalpp/issues/569).
 
-## Building
+## Construindo
 
 [Linux Build](readme/LinuxBuild.md)
 
@@ -328,40 +326,40 @@ page](https://github.com/xournalpp/xournalpp/releases).
 
 [iOS Build](https://gitlab.com/TheOneWithTheBraid/xournalpp_mobile#getting-started)
 
-## File format
+## Formato de arquivo
 
-The file format _.xopp is an XML which is .gz compressed. PDFs are not embedded into the file, so if the PDF is deleted, the background is lost. _.xopp is basically the same file format as _.xoj, which is used by Xournal. Therefore Xournal++ is able to read _.xoj files, and can also export to _.xoj. As soon as notes are exported to a _.xoj-file, all Xournal++ specific extensions, like additional background types, are lost.
+O formato de arquivo _.xopp é um XML compactado em .gz. Os PDFs não são incorporados ao arquivo, portanto, se o PDF for excluído, o fundo será perdido. _.xopp é basicamente o mesmo formato de arquivo que _.xoj, que é usado pelo Xournal. Portanto, o Xournal ++ é capaz de ler arquivos _.xoj e também exportar para _.xoj. Assim que as notas são exportadas para um arquivo _.xoj, todas as extensões específicas do Xournal ++, como tipos de fundo adicionais, são perdidas.
 
-\*.xopp can theoretically be read by Xournal, as long as you do not use any new feature. Xournal does not open files that contain new attributes or unknown values, so Xournal++ will add the extension .xopp to all saved files to indicate the potential presence of Xournal++-only features.
+\*. xopp pode, teoricamente, ser lido pelo Xournal, desde que você não use nenhum recurso novo. O Xournal não abre arquivos que contêm novos atributos ou valores desconhecidos, então o Xournal ++ adicionará a extensão .xopp a todos os arquivos salvos para indicar a presença potencial de recursos exclusivos do Xournal ++.
 
-All new files will be saved as _.xopp. If an _.xoj file that was created by Xournal is opened, the Save-As dialog will be displayed on save. If the \*.xoj file was created by Xournal++, the file will be overwritten on save and the file extension will not change.
+Todos os novos arquivos serão salvos como _.xopp. Se um arquivo _.xoj criado pelo Xournal for aberto, a caixa de diálogo Salvar como será exibida ao salvar. Se o arquivo \ *. Xoj foi criado pelo Xournal ++, o arquivo será sobrescrito ao salvar e a extensão do arquivo não será alterada.
 
-**We are currently introducing a new file format that can efficiently store attached PDF files and other attachments internally. We will still allow for attachments that are linked to external files. Please refer to [#937](https://github.com/xournalpp/xournalpp/issues/937) for further details.**
+**No momento, estamos introduzindo um novo formato de arquivo que pode armazenar com eficiência arquivos PDF anexados e outros anexos internamente. Ainda permitiremos anexos vinculados a arquivos externos. Consulte [#937](https://github.com/xournalpp/xournalpp/issues/937) para mais detalhes.**
 
-## Development
+## Desenvolvimento
 
-For developing new features, create an issue or comment on an existing issue to let others know what you are doing.
-For development create a fork, and use the master as base. Create a Pull request for each fix.
-Do not create big pull requests, as long as you don't break anything features also can be
-merged, even if they are not 100% finished.
+Para desenvolver novos recursos, crie um problema ou comente sobre um problema existente para que outras pessoas saibam o que você está fazendo.
+Para o desenvolvimento, crie um fork e use o master como base. Crie uma solicitação Pull para cada correção.
+Não crie grandes solicitações de pull, contanto que você não quebre nada, os recursos também podem ser
+fundidos, mesmo que não estejam 100% concluídos.
 
-See [GitHub:xournalpp](http://github.com/xournalpp/xournalpp) for current development. You can also join
-our Gitter channel via the badge on top.
+Veja [GitHub:xournalpp](http://github.com/xournalpp/xournalpp) para o desenvolvimento atual. Você também pode entrar
+nosso canal Gitter através do crachá na parte superior.
 
-Also take a look at our [Coding Conventions](https://github.com/xournalpp/xournalpp/wiki/Coding-conventions)
+Também dê uma olhada em [Coding Conventions](https://github.com/xournalpp/xournalpp/wiki/Coding-conventions)
 
-## Code documentation
+## Documentação
 
-The code documentation is generated using Doxygen.
+A documentação do código é gerada usando Doxygen.
 
-In order to generate the documentation yourself, first install Doxygen and graphviz, i.e.
+Para gerar a documentação por conta própria, primeiro instale o Doxygen e o graphviz, ou seja,
 
 ```bash
 sudo apt install doxygen
 sudo apt install graphviz
 ```
 
-on Debian or Ubuntu. Finally, type in `doxygen` in the root directory of the repository.
-The documentation can be found in `doc/html` and `doc/latex`. Conveniently display the
-documentation with `python3 -m http.server 8000` and visit the shown URL to view the
-documentation.
+no Debian ou Ubuntu. Finalmente, digite `doxygen` no diretório raiz do repositório.
+A documentação pode ser encontrada em `doc / html` e` doc / latex`. Convenientemente exiba o
+documentação com `python3 -m http.server 8000` e visite o URL mostrado para ver o
+documentação.
