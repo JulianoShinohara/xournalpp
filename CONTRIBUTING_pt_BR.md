@@ -13,4 +13,4 @@ Também dê uma olhada em [Coding Conventions](https://github.com/xournalpp/xour
 
 Para contribuir oficialmente para o código do Xournal++, é nescessário a criação de um pull request no [Github Xournall++](https://github.com/xournalpp/xournalpp/pulls), porém levará um tempo até ser analisado e aceito suas modificações ou recusando-as.
 
-# Será necessário que o sistema esteja compilando corretamente e passando nos casos de teste para que seja aceita a contribuição
+### Será necessário que o sistema esteja compilando corretamente e passando nos casos de teste para que seja aceita a contribuição
