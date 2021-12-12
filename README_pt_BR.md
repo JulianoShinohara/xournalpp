@@ -316,7 +316,7 @@ page](https://github.com/xournalpp/xournalpp/releases).
 
 ## Construindo
 
-[Linux Build](readme/LinuxBuild.md)
+[Linux Build](readme/LinuxBuild_pt_BR.md)
 
 [Mac Build](readme/MacBuild.md)
 
