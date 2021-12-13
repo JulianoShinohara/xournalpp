@@ -189,16 +189,6 @@
                           </object>
                         </child>
                         <child>
-                          <object class="GtkMenuItem" id="menuFileAnnotate">
-                            <property name="name">menuFileAnnotate</property>
-                            <property name="visible">True</property>
-                            <property name="can-focus">False</property>
-                            <property name="label" translatable="yes">_Annotate PDF</property>
-                            <property name="use-underline">True</property>
-                            <signal name="activate" handler="ACTION_ANNOTATE_PDF" swapped="no"/>
-                          </object>
-                        </child>
-                        <child>
                           <object class="GtkImageMenuItem" id="menuFileSave">
                             <property name="label">gtk-save</property>
                             <property name="name">menuFileSave</property>
