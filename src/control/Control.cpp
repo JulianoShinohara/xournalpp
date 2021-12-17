@@ -369,10 +369,6 @@ void Control::actionPerformed(ActionType type, ActionGroup group, GdkEvent* even
         case ACTION_OPEN:
             openFile();
             break;
-        case ACTION_ANNOTATE_PDF:
-            clearSelectionEndText();
-            annotatePdf("", false, false);
-            break;
         case ACTION_SAVE:
             save();
             break;
